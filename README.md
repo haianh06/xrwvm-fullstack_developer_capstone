@@ -1,3 +1,3 @@
-# Fullstack_Dev_Capstone_Project
-Repository name: Fullstack_Dev_Capstone_Project
-Project name: Cars Dealershipct-template
+# xrwvm-fullstack_developer_capstone
+Repository name: xrwvm-fullstack_developer_capstone
+Project name: Cars Dealership
