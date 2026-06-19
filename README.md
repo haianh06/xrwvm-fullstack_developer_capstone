@@ -1,1 +1,3 @@
-# coding-project-template
+# Fullstack_Dev_Capstone_Project
+Repository name: Fullstack_Dev_Capstone_Project
+Project name: Cars Dealershipct-template

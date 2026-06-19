@@ -1,0 +1,9 @@
+Run eslint . --ext .js,.jsx
+?  12 problems (0 errors, 12 warnings)
+Run flake8 .
+0 errors
+Build Docker image
+Successfully tagged capstone:latest
+Push Docker image to IBM Cloud Container Registry
+The push refers to repository [us.icr.io/capstone/dealership]
+
